@@ -41,11 +41,16 @@ Add screenshots of your application to the `screenshots/` folder. Example:
 ## Suggested Repository Structure
 ```text
 Health-Care/
+├── jre/
+├── lib/
 ├── src/
-├── nbproject/
 ├── database/
 │   └── health_care_database.sql
+│   └── mysql-essential-5.1.33-win32.msi
 ├── screenshots/
+├── Health Care software and Database setup guide.pdf
+├── health_care.exe
+├── health_care.xml
 ├── README.md
 └── .gitignore
 ```
