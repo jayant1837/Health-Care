@@ -27,11 +27,14 @@ A desktop Hospital Management System built with **Java Swing (GUI)** and **MySQL
 ## Repository structure
 
 ```text
-Hospital-Management-System/
-├── src/                                  # Java source, NetBeans .form files, images
+Health-Care/
+├── database/                             # MySQL database schema
+├── jre/                                  # Contains the JRE required to run the application without installing Java separately.
 ├── lib/                                  # Required third-party JAR libraries
-├── health_care_database.sql              # MySQL database schema
+├── src/                                  # Java source, NetBeans .form files, images
 ├── Health Care software and Database setup guide.pdf
+├── health_care.exe
+├── health_care.xml
 ├── README.md
 └── .gitignore
 ```
