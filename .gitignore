@@ -1,0 +1,22 @@
+# Java / NetBeans build output
+/build/
+/dist/
+/nbproject/private/
+/nbbuild/
+/nbdist/
+*.class
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE and operating system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Local credentials and configuration
+.env
+*.local.properties
+config-local.*
