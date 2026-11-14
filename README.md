@@ -40,11 +40,11 @@ Add screenshots of your application to the `screenshots/` folder. Example:
 
 ## Suggested Repository Structure
 ```text
-Hospital-Management-System/
+Health-Care/
 ├── src/
 ├── nbproject/
 ├── database/
-│   └── hospital_management.sql
+│   └── health_care_database.sql
 ├── screenshots/
 ├── README.md
 └── .gitignore
