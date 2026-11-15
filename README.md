@@ -63,3 +63,16 @@ After setting up MySQL and adding the JAR libraries, build the project in NetBea
 ## Developer
 
 **Jayant Keswani**
+
+## Screenshot
+![image alt](https://github.com/jayant1837/Health-Care/blob/b30d8ed7402848b0cb0a4f7631ec1fb7b02b6fd1/src/image/img1.png)
+
+![image alt](https://github.com/jayant1837/Health-Care/blob/b30d8ed7402848b0cb0a4f7631ec1fb7b02b6fd1/src/image/img6.png)
+
+![image alt](https://github.com/jayant1837/Health-Care/blob/b30d8ed7402848b0cb0a4f7631ec1fb7b02b6fd1/src/image/img2.png)
+
+![image alt](https://github.com/jayant1837/Health-Care/blob/b30d8ed7402848b0cb0a4f7631ec1fb7b02b6fd1/src/image/img3.png)
+
+![image alt](https://github.com/jayant1837/Health-Care/blob/b30d8ed7402848b0cb0a4f7631ec1fb7b02b6fd1/src/image/img4.png)
+
+![image alt](https://github.com/jayant1837/Health-Care/blob/b30d8ed7402848b0cb0a4f7631ec1fb7b02b6fd1/src/image/img5.png)
