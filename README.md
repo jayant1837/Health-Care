@@ -60,10 +60,6 @@ This upload contains the `src/` and `lib/` folders and the NetBeans `.form` file
 
 After setting up MySQL and adding the JAR libraries, build the project in NetBeans. The source contains individual form launchers for testing; use the application's splash/login flow as the normal entry point once the project is configured.
 
-## Developer
-
-**Jayant Keswani**
-
 ## Screenshot
 ![image alt](https://github.com/jayant1837/Health-Care/blob/b30d8ed7402848b0cb0a4f7631ec1fb7b02b6fd1/src/image/img1.png)
 
@@ -74,5 +70,9 @@ After setting up MySQL and adding the JAR libraries, build the project in NetBea
 ![image alt](https://github.com/jayant1837/Health-Care/blob/b30d8ed7402848b0cb0a4f7631ec1fb7b02b6fd1/src/image/img3.png)
 
 ![image alt](https://github.com/jayant1837/Health-Care/blob/b30d8ed7402848b0cb0a4f7631ec1fb7b02b6fd1/src/image/img4.png)
+
+## Developer
+
+**Jayant Keswani**
 
 ![image alt](https://github.com/jayant1837/Health-Care/blob/b30d8ed7402848b0cb0a4f7631ec1fb7b02b6fd1/src/image/img5.png)
