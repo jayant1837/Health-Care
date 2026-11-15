@@ -48,7 +48,7 @@ Health-Care/
 
 ### Existing connection settings to check
 
-The supplied Java source currently connects to `localhost:3306/health_care` using the MySQL `root` account with an empty password in many classes. Before running the application, update these connection settings to match your own local MySQL configuration. One source file, `src/hospital/add_hosiptal.java`, currently refers to a database named `jayant`; review that connection so it matches the intended database.
+The supplied Java source currently connects to `localhost:3306/health_care` using the MySQL `root` account with an empty password in many classes. Before running the application, update these connection settings to match your own local MySQL configuration.
 
 **Security:** Do not use an empty MySQL root password outside a local development environment. Do not add real patient records, personal information, or production credentials to this public repository.
 
